@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Résumé : Epistémologie"
+date:   2018-06-24 11:40:18
+categories: resume
+---
+## Les big data, ou la nécessité de passer d’une épistémologie de la mesure à celle de la donnée.
+
+Souvent le calcul n’est considéré que comme la mise en oeuvre et l’opérationalisation de relations conceptuelles déjà présentes et données: le calcul permet de préciser, voire de simuler les phénomènes ainsi décrits par ces relations. Si cette conception est parfaitement juste et correspond aux déploiements sans précédents qu’ont connus les sciences ces dernières décennies sous l’empire des possibilités calculatoires de nos outils, elle ne permet pas cependant de rendre compte ce ce que l’on appelle désormais les sciences des données. En effet, aux deux piliers fondamentaux de la science classique, à savoir la théorie et l’expérimentation, le calcul scientifique a permis d’ajouter un troisième, la simulation, et nous découvrons qu’une autre mobilisation du calcul donne lieu à un quatrième, l’analyse des données. Si les outils et techniques utilisés dans cette dernière perspective ne sont pas nouveaux, l’analyse des données renvoie cependant à une mutation profonde dans notre rapport au monde et le fondement épistémologique de nos connaissances. Nouveau nominalisme,  renouvelant le geste du nominalisme médiéval concernant notre rapport à la nature vers un nouveau rapport à la culture, l’analyse des données est un déplacement des pratiques scientifiques qu’il convient de considérer en élaborant une épistémologie qui lui soit propre, une épistémologie de la donnée, qui viendrait enrichir l’épistémologie de la mesure à laquelle la science contemporaine était jusque-là adossée.
+
+
+### Quelques articles associés :
+
+Bachimont, B. (2016). Traces, calcul et intérpretation: de la mesure à la donnée. Azimuth : Philosophical Coordinates in Modern and Contemporary Ages, IV(7), 13-36. [PDF](https://bigdataspeech.github.io/Epist/fichiers/Bachimont-Azimuth.pdf)
+
+Bachimont, B. (2015). Le numérique comme milieu : enjeux épistémologiques et phénoménologiques. Principes pour une science des données. Interfaces numériques, 4(3), 385-402. [PDF](https://bigdataspeech.github.io/Epist/fichiers/06_Bachimont_V1.pdf)
+
+
+Bachimont, B. (2014). Le nominalisme et la culture:  questions posées par les enjeux du numérique. In B. Stiegler (Ed.), Digital Studies, organologie des savoirs et technologies de la connaissance (pp. 63-78). Paris: FYP Editions. [PDF](https://bigdataspeech.github.io/Epist/fichiers/Bachimont NominalismeCulture.pdf)
+
+
+
+
